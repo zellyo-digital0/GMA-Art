@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Hobeaux';
+    src: url('Hobeaux-Black.eot');
+    src: url('Hobeaux-Black.eot?#iefix') format('embedded-opentype'),
+        url('Hobeaux-Black.woff2') format('woff2'),
+        url('Hobeaux-Black.woff') format('woff'),
+        url('Hobeaux-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hobeaux';
+    src: url('Hobeaux-Light.eot');
+    src: url('Hobeaux-Light.eot?#iefix') format('embedded-opentype'),
+        url('Hobeaux-Light.woff2') format('woff2'),
+        url('Hobeaux-Light.woff') format('woff'),
+        url('Hobeaux-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hobeaux';
+    src: url('Hobeaux-Regular.eot');
+    src: url('Hobeaux-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Hobeaux-Regular.woff2') format('woff2'),
+        url('Hobeaux-Regular.woff') format('woff'),
+        url('Hobeaux-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('AcuminPro-BoldItalic.eot');
+    src: url('AcuminPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('AcuminPro-BoldItalic.woff2') format('woff2'),
+        url('AcuminPro-BoldItalic.woff') format('woff'),
+        url('AcuminPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('AcuminPro-Bold.eot');
+    src: url('AcuminPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AcuminPro-Bold.woff2') format('woff2'),
+        url('AcuminPro-Bold.woff') format('woff'),
+        url('AcuminPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('AcuminPro-Regular.eot');
+    src: url('AcuminPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AcuminPro-Regular.woff2') format('woff2'),
+        url('AcuminPro-Regular.woff') format('woff'),
+        url('AcuminPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hobeaux';
+    src: url('Hobeaux-Bold.eot');
+    src: url('Hobeaux-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Hobeaux-Bold.woff2') format('woff2'),
+        url('Hobeaux-Bold.woff') format('woff'),
+        url('Hobeaux-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('AcuminPro-Italic.eot');
+    src: url('AcuminPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('AcuminPro-Italic.woff2') format('woff2'),
+        url('AcuminPro-Italic.woff') format('woff'),
+        url('AcuminPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
