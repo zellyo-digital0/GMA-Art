@@ -1,1 +1,1 @@
-# GMA-Art
+# https://zellyo-digital0.github.io/GMA-Art
